@@ -19,3 +19,5 @@ async function fun() {
     }
 }
 fun();
+
+console.log("pushing to git");
